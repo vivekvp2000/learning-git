@@ -1,2 +1,2 @@
-console.log("Hello World ap thik ho na");
-console.log("console log by new member hare om");
+console.log("Hello World kese ho");
+console.log("console log by new member here");
